@@ -15,4 +15,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "git-garden"
 include(":app")
- 
+include(":core:data")
+include(":core:domain")
